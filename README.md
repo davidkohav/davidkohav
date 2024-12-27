@@ -1,7 +1,3 @@
-Here’s a fully refined and expanded version of your GitHub profile README.md:
-
----
-
 # 👋 Hi, I’m David Kohav (@davidkohav)
 
 - 👀 **I’m interested in**:  
