@@ -25,9 +25,10 @@
 
 I’m a passionate AI and Big Data Engineering leader with over 15 years of experience delivering transformative technology solutions. Currently serving as the **AI Senior Architect at Sympera**, I design and implement advanced AI-driven platforms that enable businesses to harness the power of data for strategic insights and operational efficiency.
 
-My work focuses on developing scalable systems using cutting-edge tools and frameworks like **TensorFlow**, **PyTorch**, and **Django**. I’ve built expertise in:  
+My work focuses on developing scalable systems using cutting-edge tools and frameworks like **TensorFlow**, **PyTorch**, **Django**, and **Kafka**. I’ve built expertise in:  
 - **Artificial Intelligence & Machine Learning Systems**: Specializing in NLP, RAG, and LLMs for enhanced decision-making and automation.  
-- **Big Data Architecture**: Crafting real-time analytics platforms for actionable business intelligence.  
+- **Big Data Architecture**: Crafting real-time analytics platforms using tools like **Kafka** and **Elastic Search**.  
+- **Cloud Platforms**: Extensive experience with **AWS** and **Azure** for cloud-based AI solutions.  
 - **Python Back-end Development**: Proficient in Django, Flask, and FastAPI for high-performance applications.
 
 I am dedicated to continuous learning and sharing my knowledge with the community through conferences, mentorship programs, and collaborative projects.  
@@ -39,14 +40,16 @@ I am dedicated to continuous learning and sharing my knowledge with the communit
 #### **Core Expertise**:  
 - Retrieval-Augmented Generation (RAG)  
 - Language Modeling & Natural Language Processing (NLP)  
-- Scalable Big Data Architecture  
+- Scalable Big Data Architecture with **Kafka** and **Elastic Search**  
+- Cloud Deployment on **AWS** and **Azure**  
 - Python Back-end Development (Django, Flask, FastAPI)  
 - Real-time Analytics & Performance Optimization  
 - AI Systems for E-commerce, Retail, and Customer Service  
 
 #### **Technologies**:  
 - **AI Frameworks**: TensorFlow, PyTorch, scikit-learn  
-- **Big Data Tools**: Apache Spark, Hadoop  
+- **Big Data Tools**: Apache Spark, Kafka, Elastic Search  
+- **Cloud Platforms**: AWS, Azure  
 - **Programming Languages**: Python, JavaScript, SQL  
 - **Web Technologies**: Django, Flask, React, Node.js  
 
@@ -69,7 +72,7 @@ I am dedicated to continuous learning and sharing my knowledge with the communit
 
 2. **Real-time Data Analytics Platform**  
    - Created a scalable analytics platform that processes terabytes of data in real time to deliver actionable insights.  
-   - Integrated Apache Spark with Python to enable seamless data pipeline operations.  
+   - Integrated **Kafka** and **Elastic Search** for high-performance data streaming and storage.  
    - [GitHub Repo](https://github.com/your-repo-link)  
 
 3. **NLP-Based Recommender System**  
