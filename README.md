@@ -11,9 +11,9 @@
 
 - 📫 **How to reach me**:  
    - **Email**: [david@mldk.tech](mailto:david@mldk.tech)  
-   - **LinkedIn**: [David Kohav](https://www.linkedin.com/in/davidkochav)  
-   - **GitHub**: [David Kohav](https://github.com/davidkohav)  
-   - **Website**: [Sympera](https://mldk.tech)
+   - **LinkedIn**: [https://www.linkedin.com/in/davidkochav](https://www.linkedin.com/in/davidkochav)  
+   - **GitHub**: [https://github.com/davidkohav](https://github.com/davidkohav) 
+   - **Website**: [MLDK](https://mldk.tech)
 
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun fact**:  
