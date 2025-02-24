@@ -10,10 +10,10 @@
    Projects that focus on AI-driven systems, chatbot development, Big Data architecture, advanced analytics, and open-source software for machine learning pipelines. I’m especially excited about initiatives in NLP and AI that enhance customer experience and streamline business processes.
 
 - 📫 **How to reach me**:  
-   - **Email**: [david.kohav@sympera.ai](mailto:david.kohav@sympera.ai)  
+   - **Email**: [david@mldk.tech](mailto:david@mldk.tech)  
    - **LinkedIn**: [David Kohav](https://www.linkedin.com/in/davidkochav)  
    - **GitHub**: [David Kohav](https://github.com/davidkohav)  
-   - **Website**: [Sympera](https://sympera.ai)
+   - **Website**: [Sympera](https://mldk.tech)
 
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun fact**:  
