@@ -1,7 +1,7 @@
 # 👋 Hi, I’m David Kohav (@davidkohav)
 
-- 👀 **I’m interested in**:  
-   Leveraging cutting-edge GenAI & Big Data solutions to solve real-world challenges. My primary focus includes Natural Language Processing (NLP), Large Language Models (LLMs), scalable backend development, and advancing the integration of AI into innovative business solutions.
+- 👀 **I’m interested in**:
+     Leveraging cutting-edge GenAI & Big Data solutions to solve real-world challenges. My primary focus includes Natural Language Processing (NLP), Large Language Models (LLMs), scalable backend development, and advancing the integration of AI into innovative business solutions.
 
 - 🌱 **I’m currently learning**:  
    Advanced AI methodologies, Retrieval-Augmented Generation (RAG) techniques, optimization of transformer models, and scalable real-time data processing frameworks to push the boundaries of AI applications.
@@ -10,9 +10,9 @@
    Projects that focus on AI-driven systems, chatbot development, Big Data architecture, advanced analytics, and open-source software for machine learning pipelines. I’m especially excited about initiatives in NLP and AI that enhance customer experience and streamline business processes.
 
 - 📫 **How to reach me**:  
-   - **Email**: [david@mldk.tech](mailto:david@mldk.tech)  
+   - **Email**: [davidkohav@gmail.com](mailto:davidkohav@gmail.com) or [david@mldk.tech](mailto:david@mldk.tech)
    - **LinkedIn**: [https://www.linkedin.com/in/davidkochav](https://www.linkedin.com/in/davidkochav)  
-   - **GitHub**: [https://github.com/davidkohav](https://github.com/davidkohav) 
+   - **GitHub**: [https://github.com/mldk-tech](https://github.com/mldk-tech) or [https://github.com/davidkohav](https://github.com/davidkohav) 
    - **Website**: [MLDK](https://mldk.tech)
 
 - 😄 **Pronouns**: He/Him  
@@ -22,72 +22,49 @@
 ---
 
 ### **About Me**
+   I am David Kohav, a visionary AI Architect and Backend Engineering Leader with over 15 years of experience designing and deploying high-performance AI systems. Specializing in Generative AI, Large Language Models (LLMs), Natural Language Processing (NLP), and scalable microservices architectures, I excel in leading cross-functional teams, developing AI-powered CRM solutions, and optimizing AI workflows for real-time data processing and actionable insights.
 
-I’m a passionate AI and Big Data Engineering leader with over 15 years of experience delivering transformative technology solutions. Currently serving as the **AI Senior Architect at Sympera**, I design and implement advanced AI-driven platforms that enable businesses to harness the power of data for strategic insights and operational efficiency.
+As an expert in LLMs, Retrieval-Augmented Generation (RAG) pipelines, and AI-driven solutions across financial, HR, and customer engagement sectors, I have consistently demonstrated success in driving AI automation, enhancing customer experiences, and significantly increasing operational efficiency. My core expertise includes advanced Generative AI & NLP technologies (such as GPT-4, Llama 2, Mistral, Claude, BERT, and PaLM 2), RAG systems, vector databases (Pinecone, Weaviate, Faiss), and sophisticated backend engineering leveraging Python, FastAPI, Django, and modern cloud infrastructures like Kubernetes, Docker, and Terraform.
 
-My work focuses on developing scalable systems using cutting-edge tools and frameworks like **TensorFlow**, **PyTorch**, **Django**, and **Kafka**. I’ve built expertise in:  
-- **Artificial Intelligence & Machine Learning Systems**: Specializing in NLP, RAG, and LLMs for enhanced decision-making and automation.  
-- **Big Data Architecture**: Crafting real-time analytics platforms using tools like **Kafka** and **Elastic Search**.  
-- **Cloud Platforms**: Extensive experience with **AWS** and **Azure** for cloud-based AI solutions.  
-- **Python Back-end Development**: Proficient in Django, Flask, and FastAPI for high-performance applications.
+Currently leading innovative AI projects at MLDK-Tech, I have architected and deployed AI-driven automation solutions, resulting in an impressive reduction in response times, increased customer engagement, and substantial operational cost savings. Notable projects include the Banker AI Assistant, designed to streamline financial interactions, and Marketing-Intelligent, an advanced system for secure, efficient company relationship management.
 
-I am dedicated to continuous learning and sharing my knowledge with the community through conferences, mentorship programs, and collaborative projects.  
-
+Dedicated to mentoring and thought leadership, I frequently share my insights at industry conferences and guide emerging engineers in cutting-edge AI and data science practices. My mission is to drive the next wave of GenAI innovation, optimizing business operations, enhancing customer engagement, and pioneering intelligent automation for sustainable growth.
+ 
 ---
 
 ### **Skills**
 
-#### **Core Expertise**:  
-- Retrieval-Augmented Generation (RAG)  
-- Language Modeling & Natural Language Processing (NLP)  
-- Scalable Big Data Architecture with **Kafka** and **Elastic Search**  
-- Cloud Deployment on **AWS** and **Azure**  
-- Python Back-end Development (Django, Flask, FastAPI)  
-- Real-time Analytics & Performance Optimization  
-- AI Systems for E-commerce, Retail, and Customer Service  
+- AI Systems Architecture
+- AI Systems Architecture
+- AI Consulting Specialties
+- AI Consulting Specialties
+- Data-driven Decision Making
+- Data-driven Decision Making
+- Software Architecture
+- Software Architecture
+- Python (Programming Language)
 
 #### **Technologies**:  
-- **AI Frameworks**: TensorFlow, PyTorch, scikit-learn  
-- **Big Data Tools**: Apache Spark, Kafka, Elastic Search  
-- **Cloud Platforms**: AWS, Azure  
-- **Programming Languages**: Python, JavaScript, SQL  
-- **Web Technologies**: Django, Flask, React, Node.js  
+- **AI Frameworks**: LangChain, LangGraph, ,crewai, AsyncIO ,TensorFlow, PyTorch, scikit-learn  
+- **Big Data Tools**: Apache Spark, Kafka, Elastic Search, RedisMQ
+- **Database**: SQL, MongoDB, Redis
+- **Cloud Platforms**: AWS, Azure, GCP
+- **Programming Languages**: Python, JavaScript
+- **Web Technologies**: FastAPI, Django, Flask, Quart, Sanic, Tornado
 
 ---
 
 ### **Certifications**  
-- **Machine Learning and AI Foundations: Decision Trees**  
-- **Node.js Essential Training**  
-- **Learning npm the Node Package Manager**  
-- **The Non-Technical Skills of Effective Data Scientists**
-
----
-
-### **Projects**  
-
-1. **AI-Driven Chatbot for E-commerce**  
-   - Developed a conversational chatbot that improved customer engagement by 40% and reduced service time by 50%.  
-   - Used NLP techniques like intent detection and named entity recognition to personalize customer interactions.  
-   - [GitHub Repo](https://github.com/your-repo-link)  
-
-2. **Real-time Data Analytics Platform**  
-   - Created a scalable analytics platform that processes terabytes of data in real time to deliver actionable insights.  
-   - Integrated **Kafka** and **Elastic Search** for high-performance data streaming and storage.  
-   - [GitHub Repo](https://github.com/your-repo-link)  
-
-3. **NLP-Based Recommender System**  
-   - Designed and implemented a recommendation engine using NLP and collaborative filtering techniques, increasing user satisfaction by 35%.  
-   - Deployed the model with Flask for production, handling thousands of daily recommendations.  
-   - [GitHub Repo](https://github.com/your-repo-link)  
-
-4. **Hyperlocal Marketing Sentiment Analyzer**  
-   - Built a sentiment analysis tool for hyperlocal marketing, boosting customer engagement and increasing regional revenue by 25%.  
-   - Leveraged pre-trained LLMs and fine-tuned them for specific use cases.  
-   - [GitHub Repo](https://github.com/your-repo-link)  
+- **Build AI Agents and Chatbots with LangChain and LangGraph**
+- **Model Context Protocol (MCP): Hands-On with Agentic AI**  
+- **Advanced Python Projects: Build AI Applications**  
+- **Advanced Fine-Tuning for LLMs**
+- **Software Architecture For Agentic GenAI**
 
 ---
 
 ### **Education**  
+- **Data Science** , Primrose (2019)
 - **Machine and Deep Learning Researcher**, Primrose (2019)  
 - **Software Engineering**, Hi-Tech College (2010–2011)  
 - **Electronics Engineer**, ORT Colleges (2000–2002)  
