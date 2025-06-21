@@ -14,7 +14,7 @@
    - **LinkedIn**: [https://www.linkedin.com/in/davidkochav](https://www.linkedin.com/in/davidkochav)  
    - **GitHub**: [https://github.com/mldk-tech](https://github.com/mldk-tech) or [https://github.com/davidkohav](https://github.com/davidkohav) 
    - **Website**: [MLDK](https://mldk.tech)
-   - **My Blogs and Articles:** [Blogs or Articles](https://mldk.tech/ai-insights-blogs)
+   - **Read My Blogs:** [Expert Insights and Research](https://mldk.tech/ai-insights-blogs)
 
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun fact**:  
