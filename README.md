@@ -1,10 +1,10 @@
 # 👋 Hi, I’m David Kohav (@davidkohav)
 
 - 👀 **I’m interested in**:
-     Leveraging cutting-edge GenAI & Big Data solutions to solve real-world challenges. My primary focus includes Natural Language Processing (NLP), Large Language Models (LLMs), scalable backend development, and advancing the integration of AI into innovative business solutions.
+     Leveraging cutting-edge GenAI & Big Data solutions to solve real-world challenges. My primary focus includes Natural Language Processing (NLP), Large Language Models (LLMs), scalable backend development, and advancing the integration of AI or Agentic GenAI (Agents) into innovative business solutions.
 
 - 🌱 **I’m currently learning**:  
-   Advanced AI methodologies, Retrieval-Augmented Generation (RAG) techniques, optimization of transformer models, and scalable real-time data processing frameworks to push the boundaries of AI applications.
+   Advanced AI and Agentic GenAI methodologies, Retrieval-Augmented Generation (RAG) techniques, optimization of transformer models, and scalable real-time data processing frameworks to push the boundaries of AI applications.
 
 - 💞️ **I’m looking to collaborate on**:  
    Projects that focus on AI-driven systems, chatbot development, Big Data architecture, advanced analytics, and open-source software for machine learning pipelines. I’m especially excited about initiatives in NLP and AI that enhance customer experience and streamline business processes.
